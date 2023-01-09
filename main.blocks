@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="iRVSv.Oh9$IpiqaX;(Yp">projectile</variable><variable type="KIND_SpriteKind" id="qxH-bi!KoPIJ]G;yKanA">Player</variable><variable type="KIND_SpriteKind" id="ik8_)46`YndPpqr/ld*m">Projectile</variable><variable type="KIND_SpriteKind" id="2+R=nc.Y/UFxEl9k8I*T">Food</variable><variable type="KIND_SpriteKind" id="ya^}xN!No9`[lY,@M?Mb">Enemy</variable></variables><block type="pxt-on-start" id="/=4OP4Gg$vL/R=ntsEG}" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="D~35o+%lv.ldue3L#g2!"><field name="VAR" id="iRVSv.Oh9$IpiqaX;(Yp">projectile</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreateprojectile" id="G$@U=JDBnWGLysBvLXXw"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="img"><shadow type="screen_image_picker" id="m`{G0PLaYOnpCzh.me/A"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . 1 1 1 . . 
+. . . . . . . . . 1 . 1 f 1 1 . 
+. . . . . . . . 1 9 1 1 1 1 . . 
+. . . . . . . 1 9 9 1 1 1 . . . 
+. . . . . . . . 1 1 1 1 . . . . 
+. . . . . . . . 5 . . 5 . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"m`{G0PLaYOnpCzh.me/A"}}</data></shadow></value><value name="vx"><shadow type="math_number" id="IbQfu0PfXSH{Zi}1|@hh"><field name="NUM">50</field></shadow></value><value name="vy"><shadow type="math_number" id="6+Z?@oBBrc{kmm6Wg#(]"><field name="NUM">0</field></shadow></value><value name="kind"><shadow type="spritekind" id="MN,g7ai1W`pY`!t9K#.y"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
